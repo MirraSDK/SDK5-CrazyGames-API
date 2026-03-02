@@ -1,0 +1,22 @@
+{
+    "name": "MirraGames.SDK.CrazyGames",
+    "rootNamespace": "MirraGames.SDK.CrazyGames",
+    "references": [
+        "MirraGames.SDK.Common",
+        "CrazySDK"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WebGL"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_WEBGL"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

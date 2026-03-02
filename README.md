@@ -11,3 +11,7 @@ https://github.com/MirraSDK/SDK5-CrazyGames-API.git
 4. Make sure you've selected WebGL in Build Settings.
 
 5. Open Toolkit, choose CrazyGamesConfiguration for Build.
+
+6. For banners, use prefabs they provided in CrazySDK package.
+
+7. For payments, use XSolla API package for MirraSDK5 (available in Toolkit).

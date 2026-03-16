@@ -27,7 +27,7 @@ namespace MirraGames.SDK.CrazyGames
         public override string LanguageInfoProviderName { get; } = "UnityEngineLanguageInfo";
         public override string PauseProviderName { get; } = "UnityEnginePause";
         public override string PaymentsProviderName { get; } = "FallbackPayments";
-        public override string PlatformInfoProviderName { get; } = "FallbackPlatformInfo";
+        public override string PlatformInfoProviderName { get; } = "CrazyGamesPlatformInfo";
         public override string PlatformInteractionsProviderName { get; } = "FallbackPlatformInteractions";
         public override string PlayerAccountProviderName { get; } = "FallbackPlayerAccount";
         public override string DateTimeProviderName { get; } = "SystemDateTime";

@@ -19,7 +19,7 @@ namespace MirraGames.SDK.CrazyGames
         public override string StreamingAssetsProviderName { get; } = "UnityEngineStreamingAssets";
         public override string AudioProviderName { get; } = "UnityEngineAudio";
         public override string BootstrapProviderName { get; } = "CrazyGamesBootstrap";
-        public override string DataProviderName { get; } = "UnityEngineData";
+        public override string DataProviderName { get; } = "CrazyGamesData";
         public override string DeviceBrowserProviderName { get; } = "UnityEngineDeviceBrowser";
         public override string DeviceCursorProviderName { get; } = "UnityEngineDeviceCursor";
         public override string DeviceInfoProviderName { get; } = "UnityEngineDeviceInfo";

@@ -29,7 +29,7 @@ namespace MirraGames.SDK.CrazyGames
         public override string PaymentsProviderName { get; } = "FallbackPayments";
         public override string PlatformInfoProviderName { get; } = "CrazyGamesPlatformInfo";
         public override string PlatformInteractionsProviderName { get; } = "FallbackPlatformInteractions";
-        public override string PlayerAccountProviderName { get; } = "FallbackPlayerAccount";
+        public override string PlayerAccountProviderName { get; } = "CrazyGamesPlayerAccount";
         public override string DateTimeProviderName { get; } = "SystemDateTime";
         public override string TimeScaleProviderName { get; } = "UnityEngineTimeScale";
     }
